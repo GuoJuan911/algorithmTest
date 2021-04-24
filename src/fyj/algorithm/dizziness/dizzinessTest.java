@@ -72,6 +72,15 @@ class ArrayDizziness{
     end = (end+1)%maxSize;
     return "添加成功！";
   }
+  
+  
+  
+  
+  //8888888889898dadsada9d8
+  //79797889988998989898
+  
+  
+  
 
   String introductionDizziness(){
     if(this.isEmpty()){
