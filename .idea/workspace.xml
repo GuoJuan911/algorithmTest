@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ada266a-923b-4247-b7d5-42c9b889d01d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1rbLFaPMmFVUh9fTae6A2fgPGqD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.57586205" />
+  </component>
+  <component name="RunManager" selected="Application.CircleArrayQueueDemo">
+    <configuration name="CircleArrayQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fyj.algorithm.dizziness.CircleArrayQueueDemo" />
+      <module name="algorithmTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fyj.algorithm.dizziness.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SparseTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fyj.algorithm.sparse.SparseTest" />
+      <module name="algorithmTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fyj.algorithm.sparse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dizzinessTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fyj.algorithm.dizziness.dizzinessTest" />
+      <module name="algorithmTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fyj.algorithm.dizziness.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CircleArrayQueueDemo" />
+        <item itemvalue="Application.dizzinessTest" />
+        <item itemvalue="Application.SparseTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ada266a-923b-4247-b7d5-42c9b889d01d" name="Default Changelist" comment="" />
+      <created>1619239739409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619239739409</updated>
+      <workItem from="1619239741031" duration="10539000" />
+      <workItem from="1619254266793" duration="2460000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="23" key="#Project_Structure" timestamp="1619239758150">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="208" y="23" key="#Project_Structure/0.23.1440.805@0.23.1440.805" timestamp="1619239758150" />
+    <state width="419" height="466" key="DebuggerActiveHint" timestamp="1619253525292">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="419" height="466" key="DebuggerActiveHint/0.23.1440.805@0.23.1440.805" timestamp="1619253525292" />
+    <state width="699" height="182" key="GridCell.Tab.0.bottom" timestamp="1619269218197">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="699" height="182" key="GridCell.Tab.0.bottom/0.23.1440.805@0.23.1440.805" timestamp="1619269218197" />
+    <state width="699" height="182" key="GridCell.Tab.0.center" timestamp="1619269218195">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="699" height="182" key="GridCell.Tab.0.center/0.23.1440.805@0.23.1440.805" timestamp="1619269218195" />
+    <state width="699" height="182" key="GridCell.Tab.0.left" timestamp="1619269218194">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="699" height="182" key="GridCell.Tab.0.left/0.23.1440.805@0.23.1440.805" timestamp="1619269218194" />
+    <state width="699" height="182" key="GridCell.Tab.0.right" timestamp="1619269218196">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="699" height="182" key="GridCell.Tab.0.right/0.23.1440.805@0.23.1440.805" timestamp="1619269218196" />
+    <state width="699" height="197" key="GridCell.Tab.1.bottom" timestamp="1619255391016">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="699" height="197" key="GridCell.Tab.1.bottom/0.23.1440.805@0.23.1440.805" timestamp="1619255391016" />
+    <state width="699" height="197" key="GridCell.Tab.1.center" timestamp="1619255391015">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="699" height="197" key="GridCell.Tab.1.center/0.23.1440.805@0.23.1440.805" timestamp="1619255391015" />
+    <state width="699" height="197" key="GridCell.Tab.1.left" timestamp="1619255391015">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="699" height="197" key="GridCell.Tab.1.left/0.23.1440.805@0.23.1440.805" timestamp="1619255391015" />
+    <state width="699" height="197" key="GridCell.Tab.1.right" timestamp="1619255391016">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state width="699" height="197" key="GridCell.Tab.1.right/0.23.1440.805@0.23.1440.805" timestamp="1619255391016" />
+    <state x="458" y="167" key="extract.method.dialog" timestamp="1619240961808">
+      <screen x="0" y="23" width="1440" height="805" />
+    </state>
+    <state x="458" y="167" key="extract.method.dialog/0.23.1440.805@0.23.1440.805" timestamp="1619240961808" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/fyj/algorithm/dizziness/dizzinessTest.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithmTest$dizzinessTest.ic" NAME="dizzinessTest Coverage Results" MODIFIED="1619246529040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>fyj.algorithm.dizziness.*</FILTER>
+    </SUITE>
+  </component>
+</project>
