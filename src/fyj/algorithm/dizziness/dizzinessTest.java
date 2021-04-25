@@ -2,6 +2,9 @@ package fyj.algorithm.dizziness;
 
 public class dizzinessTest {
 
+  /**
+  *dadsadsadad
+  */
 
   public static void main(String[] args) {
     ArrayDizziness diz= new ArrayDizziness(10);
